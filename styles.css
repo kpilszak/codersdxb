@@ -183,5 +183,10 @@ a {
 
 .logo-container {
     display: flex;
-    align-items: center
+    align-items: center;
+    max-width: 250px;
+}
+
+.logo-container img {
+    width: 100%;
 }
